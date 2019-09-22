@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Inventors.IO.Matlab</id>
+    <version>1.0.0</version>
+    <authors>Inventors' Way</authors>
+    <owners>Inventors' Way ApS</owners>
+    <license type="expression">LGPL-3.0-only</license>
+    <projectUrl>https://github.com/Inventors-Way/ITLS-Logging</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library for writing matlab files</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2019 Inventors' Way ApS</copyright>
+    <tags>Matlab</tags>
+  </metadata>
+  <files>
+    <file src="bin\Debug\Inventors.IO.Matlab.dll" target="lib/net472" />
+  </files>
+</package>
