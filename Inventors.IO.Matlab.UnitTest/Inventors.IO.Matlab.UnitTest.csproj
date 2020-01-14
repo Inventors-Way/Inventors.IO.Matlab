@@ -57,7 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Inventors.IO.Matlab\Inventors.IO.Matlab.csproj">
-      <Project>{eea38172-1d57-4159-8cbb-0896206283b7}</Project>
+      <Project>{c396b3a2-f6e1-427e-9c26-d4a114495a6a}</Project>
       <Name>Inventors.IO.Matlab</Name>
     </ProjectReference>
   </ItemGroup>
